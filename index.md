@@ -1,10 +1,18 @@
-## Welcome to GitHub Pages
+# Welcome to Arkansas Anime Festival 2022 - Temporary Site
 
-You can use the [editor on GitHub](https://github.com/Arkanimefest/arkanimefest.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+We've had a few technical difficulties with certain browsers on our regular site but we wanted to make sure you could see the basic information for the con!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### June 17-19 at the Sheraton Four Points in Bentonville, AR
 
-### Markdown
+## TICKETS
+Click the link to buy via our Paypal gateway.
+
+[**Adult Friday - $30.00**]()
+[**Adult Saturday - $35.00**]()
+[**Adult Sunday - $30.00**]()
+[**Adult Weekend - $45.00**]()
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
